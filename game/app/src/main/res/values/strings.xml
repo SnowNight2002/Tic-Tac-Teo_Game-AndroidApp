@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">game</string>
+    <string name="rankUrl">http://192.168.0.197/ranking_api.php</string>
+</resources>
